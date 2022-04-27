@@ -19,7 +19,3 @@
   * [Step 5: Users](installation/on-the-vincent-os-iso/step-5-users.md)
   * [Step 6: Summary](installation/on-the-vincent-os-iso/step-6-summary.md)
 * [Post Installation](installation/post-installation.md)
-
-## ❓ FAQ
-
-* [Page 1](faq/page-1.md)
