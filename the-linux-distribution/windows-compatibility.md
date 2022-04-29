@@ -10,7 +10,11 @@ Vincent OS helps you to launch Windows executable including by default: Bottles.
 
 Bottles allows to launch Windows software in any Linux distribution.\
 \
-Main Website : https://usebottles.com
+Main Website :
+
+{% embed url="https://usebottles.com" %}
+Main website
+{% endembed %}
 
 For advanced configuration, you can check their documentations here:
 
