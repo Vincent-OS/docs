@@ -1,7 +1,7 @@
 # Step 3: Partition
 
 {% hint style="danger" %}
-Make sure you are backed up all your data!
+Make sure you backed up all your data!
 
 **THE VINCENT OS TEAM ARE NOT REPONSIBLE TO ANY DATA LOSS AND CANNOT HELP YOU TO RECOVER YOUR DATA IF YOU DELETE THE PARTITION CONCERNED!**
 {% endhint %}
