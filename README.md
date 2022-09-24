@@ -5,8 +5,8 @@ coverY: 0
 
 # Welcome!
 
-Welcome to the Vincent OS Documentations, you can found several informations about Vincent OS and it's differents features.
+Welcome to the Vincent OS Documentation, you can find several information about Vincent OS and its differents features.
 
 {% hint style="warning" %}
-This documentation is still working in progress!
+This documentation is still in progress!
 {% endhint %}
