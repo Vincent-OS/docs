@@ -1,11 +1,13 @@
 # Presentation
 
-Vincent OS is a Operating System made in C#, it was created by: v38armageddon.
+Vincent OS is a Operating System based on ReactOS and Debian, it was created by: v38armageddon.
 
-There are 2 features:
+There are multiples features:
 
+* Two versions of Vincent OS
 * Custom Kernel
-* Windows compatibility
+* Windows / Linux compatibility
+* Unique desktop
 
 {% hint style="info" %}
 The Vincent OS Desktop is named: VinDesk

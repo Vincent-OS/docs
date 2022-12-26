@@ -1,8 +1,8 @@
-# Before installing Vincent OS
+# Flash the ISO
 
-Before installing Vincent OS you need:
+After choosing a ISO, you need:
 
-* Vincent OS ISO
+* The Vincent OS ISO
 * A external device for the ISO
 * Rufus (if you are on Windows)
 * Enough storage space for Vincent OS
